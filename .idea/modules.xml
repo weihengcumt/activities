@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WebMagicDemo/WebMagicDemo.iml" filepath="$PROJECT_DIR$/WebMagicDemo/WebMagicDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comactivitidemo.iml" filepath="$PROJECT_DIR$/comactivitidemo.iml" />
+    </modules>
+  </component>
+</project>
