@@ -12,7 +12,7 @@ import java.util.List;
 
 
 public class Lianjia implements PageProcessor {
-
+    //nihao
     private Site site = Site.me().setRetryTimes(3).setSleepTime(300);
     static ArrayList<ResultItems> list = new ArrayList<>();
     @Override
